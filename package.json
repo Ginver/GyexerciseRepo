@@ -1,0 +1,15 @@
+{
+  "name": "datastructurenmanipulatie",
+  "version": "1.0.0",
+  "description": "\"practicing datastructures and manipulation\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"test\" \"test\""
+  },
+  "keywords": [
+    "\"test\"",
+    "\"jest\""
+  ],
+  "author": "Gigi",
+  "license": "ISC"
+}
